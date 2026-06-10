@@ -19,7 +19,7 @@ Building strong foundations in Software Engineering, DSA, and Android Developmen
 
 * 💬 Ask me about Java, DSA, Android, Git/GitHub, and AI
 
-* 📫 Reach me at [manishthelegend99@gmail.com](mailto:manishachars@gmail.com)
+* 📫 Reach me at [manishachars@gmail.com](mailto:manishachars@gmail.com)
 
 
 <h3 align="left">GitHub Stats</h3>
