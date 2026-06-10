@@ -9,9 +9,9 @@ Building strong foundations in Software Engineering, DSA, and Android Developmen
 </p>
 
 
-* 🌱 I’m currently learning DSA and Android Development
+* 🌱 Solving DSA problems daily in Java 
 
-* ☕ Improving my Java skills
+* 📱 Building Android apps with Kotlin
 
 * 🔧 Building projects with Git & GitHub
 
